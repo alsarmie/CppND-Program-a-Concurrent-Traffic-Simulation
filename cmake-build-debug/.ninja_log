@@ -1,0 +1,12 @@
+# ninja log v5
+1	1695	1643831554499130823	CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o	d37b1f93fae828c9
+1	702	1643831553511124906	CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o	3218a5e89f7d11bd
+1	1892	1643831554699132021	CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o	cab467fe003a19a9
+1	720	1643831553527125002	CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o	8fee80a742e15b0a
+1892	2437	1643831555243135278	traffic_simulation	1251efde7a851f0a
+0	1602	1643831554407130272	CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o	7a3d310207011ee4
+0	1526	1643831554335129841	CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o	9117d30d7bbc6b71
+0	756	1643831553563125218	CMakeFiles/traffic_simulation.dir/src/Street.cpp.o	6c02077d1db8de30
+3	1151	1644181959319936791	CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o	8fee80a742e15b0a
+3	1813	1644181959979936735	CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o	7a3d310207011ee4
+1813	2456	1644181960619936681	traffic_simulation	1251efde7a851f0a
